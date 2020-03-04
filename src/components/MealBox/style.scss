@@ -1,0 +1,12 @@
+.media {
+  max-width: 750px;
+  margin: 10px auto;
+  border: 0.5px solid gray;
+  height: 150px;
+  .media-body {
+    max-width: 300px;
+  }
+  .img-thumbnail {
+    max-width: 10em;
+  }
+}
